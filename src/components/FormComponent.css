@@ -1,0 +1,31 @@
+.form-control {
+  padding-left: 15px;
+}
+label {
+  display: inline-block;
+  margin: 10px 1px;
+}
+input {
+  border: 1px solid white;
+  border-radius: 2px;
+  display: block;
+  font-size: 16px;
+  padding: 10px;
+  width: 94%;
+}
+input:focus {
+  outline: none;
+}
+
+button {
+  width: 40%;
+  cursor: pointer;
+  display: block;
+  margin: 10px 0 30px;
+  padding: 10px;
+  font-size: large;
+  background-color: rgb(82, 27, 13);
+  color:rgb(255, 255, 255);
+  margin-left: -7px;
+  width: 100%;
+}
